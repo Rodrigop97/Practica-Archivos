@@ -7,4 +7,5 @@ SOURCES += \
         Generar_Provincias.cpp \
         Generar_empleados.cpp \
         Multas_Provincias.cpp \
+        lista_sueldos.cpp \
         main.cpp
