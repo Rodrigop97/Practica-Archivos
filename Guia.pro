@@ -5,5 +5,6 @@ CONFIG -= qt
 
 SOURCES += \
         Generar_Provincias.cpp \
+        Generar_empleados.cpp \
         Multas_Provincias.cpp \
         main.cpp
